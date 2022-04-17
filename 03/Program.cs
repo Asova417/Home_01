@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Введите число: ");
+﻿// Задача 3. Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным 
+// (делится ли оно на два без остатка).
+
+Console.WriteLine("Введите число: ");
 int  numberA = Convert.ToInt32(Console.ReadLine());
 double  numberB = numberA;
 int a = ((numberA)/2);
